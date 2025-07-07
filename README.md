@@ -77,8 +77,8 @@
     <div class="max-w-4xl mx-auto text-center">
       <h3 class="text-4xl font-bold mb-6">📩 Contact</h3>
       <p class="mb-4 text-lg">Tu veux collaborer ou commander un beat sur mesure ?</p>
-      <p>Email : <a href="mailto:nokelmo.beats@gmail.com" class="text-green-400 underline">nokelmo.beats@gmail.com</a></p>
-      <p>Instagram : <a href="https://instagram.com/nokelmo" class="text-green-400 underline">@nokelmo</a></p>
+      <p>Email : <a href="mailto:beatznokelmo@gmail.com" class="text-green-400 underline">nokelmo.beats@gmail.com</a></p>
+      <p>Instagram : <a href="https://instagram.com/nokelmo.officiel" class="text-green-400 underline">@nokelmo</a></p>
       <p>YouTube : <a href="https://youtube.com/@nokelmo" class="text-green-400 underline">@nokelmo</a></p>
     </div>
   </section>
